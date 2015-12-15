@@ -1,0 +1,44 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+a {
+    color: #03a9f4;
+}
+a:hover {
+    color: #0fb2fc;
+}
+
+.navbar {
+    margin: 0;
+}
+.navbar-brand {
+    text-transform: uppercase;
+    padding: 0;
+}
+
+#hero .well {
+    padding: 0;
+}
+#hero .btn {
+    margin: 0;
+    border: 2px solid #03a9f4;
+}
+#hero a:hover {
+    color: #fff;
+}
+
+#services {
+    margin-top: 3em;
+}
+#services h3 {
+    text-transform: uppercase;
+}
+#services ul a {
+    color: #000;
+}
+
+footer {
+    background: url(img/footer.png) center right no-repeat;
+    background-size: cover;
+    height: 300px;
+}
